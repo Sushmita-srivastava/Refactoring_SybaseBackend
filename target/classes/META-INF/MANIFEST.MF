@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Implementation-Title: JuniperOnPremExtractSybaseWS
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: sushmita.srivastava
+Implementation-Vendor-Id: com.infosys.juniper
+Build-Jdk: 1.8.0_202
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/JuniperOnPremExtractSybaseWS
+Created-By: Maven Integration for Eclipse
+Main-Class: com.infosys.juniper.driver.JuniperOnPremExtractSybaseWsApp
+ lication
+
